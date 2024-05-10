@@ -7,10 +7,10 @@
 ##### a- Planning and requirements analysis:
 - In this stage, planning and requirement analysis are performed by the developers of the organization. This is attained from customer inputs, and sales department/market surveys. 
 - The information from this analysis forms the building blocks of a basic project. Thus, in this stage, the basic project is designed with all the available information.
-  ***Panning***
-  ***Define project scope***
-  ***Set objectives and goals***
-  ***Resource Planning***
+***Panning***
+***Define project scope***
+***Set objectives and goals***
+***Resource Planning***
 ##### b- 
 ### Report on Framewokrs:
 #### The role of frameworks in backend
