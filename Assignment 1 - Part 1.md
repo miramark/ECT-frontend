@@ -43,7 +43,7 @@ This is fulfilled by utilizing SRS (Software Requirement Specification). This is
 - ***Maintenance***
 - ***Feedback***
 ## 3- Software Development Life Cycle Models
-- The top como=monly used models are
+- The top comomonly used models are
 
   ### a. Waterfall Model
 - It is the basis for all other SDLC models. Because of its simple structure, the waterfall model is easier to use and provides a tangible output. In the waterfall model, once a phase seems to be completed, it cannot be changed, and due to this less flexible nature, the waterfall model is not in practice anymore. 
