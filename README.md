@@ -33,7 +33,7 @@ This is fulfilled by utilizing SRS (Software Requirement Specification). This is
 - ***Code Review***
 ##### e- Product Testing and Integration
 - After the development of the product, testing of the software is necessary to ensure its smooth execution. Although, minimal testing is conducted at every stage of SDLC. Therefore, at this stage, all the probable flaws are tracked, fixed, and retested. This ensures that the product confronts the quality requirements of SRS.
-- **Software documentation** takes place in every stage of the SDLC. A well-written document acts as a tool and means to information repository necessary to know about software processes, functions, how to use the product, and maintenance
+**_Software documentation_** takes place in every stage of the SDLC. A well-written document acts as a tool and means to information repository necessary to know about software processes, functions, how to use the product, and maintenance
 - ***System Testing***
 - ***Manual testing***
 - ***Auotomated testing***
