@@ -46,26 +46,23 @@ This is fulfilled by utilizing SRS (Software Requirement Specification). This is
 - ***Feedback***
 #### 3-Software Development Life Cycle Models
 To this day, we have more than 50 recognized SDLC models in use. But None of them is perfect, and each brings its favourable aspects and disadvantages for a specific software development project or a team.
-**_The top five most popular SDLC models below_**
+
+**_The top most popular SDLC models below_**
 
 ##### a. Waterfall Model
-It is the basis for all other SDLC models. Because of its simple structure, the waterfall model is easier to use and provides a tangible output. In the waterfall model, once a phase seems to be completed, it cannot be changed, and due to this less flexible nature, the waterfall model is not in practice anymore. 
+- It is the basis for all other SDLC models. Because of its simple structure, the waterfall model is easier to use and provides a tangible output. In the waterfall model, once a phase seems to be completed, it cannot be changed, and due to this less flexible nature, the waterfall model is not in practice anymore. 
 
 ##### b. Agile Model
-The agile model was mainly designed to adapt to changing requests quickly. The main goal of the Agile model is to facilitate quick project completion. The agile model refers to a group of development processes. These processes have some similar characteristics but also possess certain subtle differences among themselves.
+- The agile model was mainly designed to adapt to changing requests quickly. The main goal of the Agile model is to facilitate quick project completion. The agile model refers to a group of development processes. These processes have some similar characteristics but also possess certain subtle differences among themselves.
 
-3. Iterative Model
+##### c. Iterative Model
 In the iterative model, each cycle results in a semi-developed but deployable version; with each cycle, some requirements are added to the software, and the final cycle results in the software with the complete requirement specification. 
 
-4. Spiral Model
-The spiral model is one of the most crucial SDLC models that provides support for risk handling. It has various spirals in its diagrammatic representation; the number of spirals depends upon the type of project. Each loop in the spiral structure indicates the Phases of the Spiral model.  
+##### d.Spiral Model
+- The spiral model provides support for risk handling. It has various spirals in its diagrammatic representation; the number of spirals depends upon the type of project. Each loop in the spiral structure indicates the Phases of the Spiral model.  
 
-5. V-Shaped Model
+##### e. V-Shaped Model
 The V-shaped model is executed in a sequential manner in V-shape. Each stage or phase of this model is integrated with a testing phase. After every development phase, a testing phase is associated with it, and the next phase will start once the previous phase is completed, i.e., development & testing. It is also known as the verification or validation model. 
 
-6. Big Bang Model
+##### f. Big Bang Model
 The Big Bang model in SDLC is a term used to describe an informal and unstructured approach to software development, where there is no specific planning, documentation, or well-defined phases.
-### Report on Framewokrs:
-#### The role of frameworks in backend
-#### The role of frameworks in frontend
-#### The most commonly used frameworks
