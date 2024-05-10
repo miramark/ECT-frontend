@@ -1,5 +1,5 @@
 # ECT-frontend
-## Day1
+## Assignnment 1
 ### Report on SDLC (Software Development life cycle)
 ### Report on Framewokrs:
 #### The role of frameworks in backend
