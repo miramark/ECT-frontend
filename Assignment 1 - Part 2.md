@@ -8,13 +8,13 @@
 
 ### Popular frameworks for backend
   
-  #### a. Ruby on Rails
+#### a. Ruby on Rails
 - Is an open-source Ruby-based framework. Ruby is responsible for providing secure and scalable software. It is based on Model View Controller (MVC) architecture and third-party libraries can also be integrated.
 
-  #### b. Django
+#### b. Django
 - Is an open-source Python-based web framework. It provides a speedy development of web applications and ensures that they are scalable and flexible. Django is based on Model Template View (MTV) architecture and is compatible with any frontend framework.
 
-  #### C. Spring Boot
+#### C. Spring Boot
 -  Is an open-source Java-based web framework. It enables developers to develop production-ready and standalone applications. Spring Boot provides high flexibility and scalability to websites. 
 
 ## 3- The role of frameworks in frontend
@@ -22,11 +22,11 @@
 
 ### Popular frameworks for backend
   
-  #### a. Angular
+#### a. Angular
 - Is an open-source TypeScript-based framework. Angular provides many features and services that can help in developing websites and Progressive Web Apps (PWAs). Angular makes use of TypeScript code on websites and gives proper responses to the user’s input in less time without writing any extra lines of code. It allows the integration of third-party tools.
 
-  #### b. VueJS
+#### b. VueJS
 - Is an open-source JavaScript-based frontend web development framework. It is built using HTML, CSS, and JavaScript and supports Model-View-View Model (MVVM) architecture. It is easy to learn and understand and has large community support.
 
-  #### C. Bootstrap
+#### C. Bootstrap
 -  Is an open-source CSS-based framework. It is developed with the help of HTML, CSS, and JavaScript. It helps in creating websites that are easy and fast to develop, highly responsive, and platform-independent. Nowadays, all websites are suitable for all kinds of devices (desktops, smartphones, tablets)
